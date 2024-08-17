@@ -1,12 +1,12 @@
-function callThreeTimes(f){
-    f();
-    f();
-    f();
-}
+// function callThreeTimes(f){
+//     f();
+//     f();
+//     f();
+// }
  
 
-function lough(){
-    console.log("ahahahhahahhahah");
-}
+// function lough(){
+//     console.log("ahahahhahahhahah");
+// }
 
-callThreeTimes(lough);
+// callThreeTimes(lough);
