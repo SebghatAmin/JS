@@ -52,6 +52,10 @@
 //   });
 // }
 
-const nums = [1, 2, 3, 4, 5, 6];
+// const nums = [1, 2, 3, 4, 5, 6];
 
-const [a, b, c] = nums;
+// const [a, b, c] = nums;
+
+const math = {
+  sum: (a, b) => a + b,
+};
